@@ -52,7 +52,7 @@
 #
 #-------------------------------------------------------------------------------
 #
-class profile::aix_ifix_ij45056 {
+class aix_ifix_ij45056 {
 
     #  Make sure we can get to the ::staging module (deprecated ?)
     include ::staging
